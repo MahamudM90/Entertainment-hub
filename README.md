@@ -31,7 +31,7 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
-##### Shipping 
+##### Tv Seris
 ![ScreenShot of Form](screenshots/d.png)
 
 
