@@ -1,7 +1,7 @@
 
 ## ENTERTAINMENT-HUB 📽 
 
-This is a Book Shop & fully functional-Ecommerce Site. 
+An Entertainment-Hub Project built with React. Users can search for movies on this site & view a list of the latest movies🎥
 
 
 
