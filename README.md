@@ -1,5 +1,5 @@
 
-## BOI-GHAR 📚
+## ENTERTAINMENT-HUB 📽 
 
 This is a Book Shop & fully functional-Ecommerce Site. 
 
