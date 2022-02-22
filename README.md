@@ -31,7 +31,7 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
-##### Tv Seris
+##### Tv Series
 ![ScreenShot of Form](screenshots/d.png)
 
 
@@ -39,7 +39,7 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
-##### Search Movies &  Tv Seris
+##### Search Movies &  Tv Series
 ![ScreenShot of Form](screenshots/e.png)
 
 
