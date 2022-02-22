@@ -6,8 +6,11 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
+
 ##### HomePage
 ![ScreenShot of Form](screenshots/a.png)
+
+
 
 
 
@@ -17,11 +20,24 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
-##### CartPage
+
+
+
+##### Latest Movies
 ![ScreenShot of Form](screenshots/c.png)
+
+
+
+
+
 
 ##### Shipping 
 ![ScreenShot of Form](screenshots/d.png)
+
+
+
+
+
 
 ##### Payment
 ![ScreenShot of Form](screenshots/e.png)
