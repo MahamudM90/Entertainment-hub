@@ -64,3 +64,13 @@ $ npm start
 $ Open http://localhost:3000
 ```
    ###    [Live Site](https://entertainmenthub.netlify.app/)
+   
+   
+   
+   
+   
+## Known Bugs
+
+Feel free to email me at mahamud01795@gmail.com if you run into any issues or have questions, ideas or concerns. Please enjoy
+and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
+
