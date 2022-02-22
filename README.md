@@ -5,13 +5,17 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
+
 ##### HomePage
 ![ScreenShot of Form](screenshots/a.png)
 
 
 
+
 ##### Footer
 ![ScreenShot of Form](screenshots/b.png)
+
+
 
 ##### CartPage
 ![ScreenShot of Form](screenshots/c.png)
