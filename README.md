@@ -3,11 +3,7 @@
 
 This is a Book Shop & fully functional-Ecommerce Site. 
 
-##### HomePage
-![ScreenShot of Form](screenshots/lol.png)
 
-##### Popular Products 
-![ScreenShot of Form](screenshorts/lala.png)
 
 ##### Footer
 ![ScreenShot of Form](screenshots/a.png)
@@ -27,17 +23,6 @@ This is a Book Shop & fully functional-Ecommerce Site.
 ##### Place Order
 ![ScreenShot of Form](screenshorts/f.png)
 
-##### Order Summary
-![ScreenShot of Form](screenshorts/g.png)
-
-##### User Profile Update
-![ScreenShot of Form](screenshorts/h.png)
-##### Admin Dashboard
-![ScreenShot of Form](screenshorts/i.png)
-##### Product Update
-![ScreenShot of Form](screenshorts/j.png)
-##### User Information
-![ScreenShot of Form](screenshorts/k.png)
 
 
 
