@@ -39,7 +39,7 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
-##### Payment
+##### Search Movies &  Tv Seris
 ![ScreenShot of Form](screenshots/e.png)
 
 
