@@ -20,9 +20,6 @@ This is a Book Shop & fully functional-Ecommerce Site.
 ##### Payment
 ![ScreenShot of Form](screenshots/e.png)
 
-##### Place Order
-![ScreenShot of Form](screenshorts/f.png)
-
 
 
 
