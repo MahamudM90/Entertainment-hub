@@ -10,7 +10,7 @@ An Entertainment-Hub Project built with React. Users can search for movies on th
 
 
 
-##### Customer Reviews
+##### Footer
 ![ScreenShot of Form](screenshots/b.png)
 
 ##### CartPage
