@@ -39,7 +39,7 @@ An Entertainment-Hub Project built with Reactjs. Users can search for movies on 
 
 
 
-##### Search Movies &  Tv Series
+##### Search Movies & Tv Series
 ![ScreenShot of Form](screenshots/e.png)
 
 
@@ -48,6 +48,7 @@ An Entertainment-Hub Project built with Reactjs. Users can search for movies on 
 
 ## Technologies uses
  - React Js
+ - B
  - Context Api
  - Usestate
  - Material UI
