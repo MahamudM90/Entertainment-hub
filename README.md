@@ -1,7 +1,7 @@
 
 ## ENTERTAINMENT-HUB 📽 
 
-An Entertainment-Hub Project built with Reactjs. Users can search for movies on this site & view a list of the latest movies🎥
+An Entertainment-Hub Project built with Reactjs. Users can search for movies on this site & view a list of the latest Movies🎥
 
 
 
