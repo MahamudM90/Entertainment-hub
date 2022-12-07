@@ -58,7 +58,7 @@ An Entertainment-Hub Project Built with Reactjs. Users can search for Movies On 
 
 ## Run it Locally
 ```
-$ git clone https://github.com/MahamudM90/ENTERTAINMENT-HUB
+$ git clone https://github.com/MahamudM90/entertainment-hub.git
 $ cd entertainment
 $ npm install
 $ npm start
