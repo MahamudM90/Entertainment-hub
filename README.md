@@ -48,9 +48,8 @@ An Entertainment-Hub Project Built with Reactjs. Users can search for Movies On 
 
 ## Technologies uses
  - React Js
- - Bootstrap
- - Context Api
- - Usestate
+ - React-Router
+ - Rapid API
  - Material UI
  
 
